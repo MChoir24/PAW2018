@@ -1,0 +1,29 @@
+.judul {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color: #80ced6;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border: 1px solid #80ced6;
+    
+}
+
+
+body {
+    margin: auto;
+    width: 60%;
+    background-color: #A0A0A0;
+}
+.bordergray {
+    border: 1px solid #80ced6;
+    border-radius: 5px;
+    background-color: #F0F0F0;
+    
+}
+.teks {
+    font-family: sans-serif;
+    background-color: #F0F0F0;
+}
+
